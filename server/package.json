@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "description": "server for user crud by react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmatulSaboor/user-CRUD-react-customHooks-etc.git"
+  },
+  "author": "Amatul Saboor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmatulSaboor/user-CRUD-react-customHooks-etc/issues"
+  },
+  "homepage": "https://github.com/AmatulSaboor/user-CRUD-react-customHooks-etc#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.12"
+  }
+}
